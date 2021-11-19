@@ -8,7 +8,7 @@ Study projects
   - Java
   
   - Servlets and JSP
-    - [servlets-and-jsp] (https://github.com/FlorescuAndrei/servlets-and-jsp.git)
+    - [servlets-and-jsp](https://github.com/FlorescuAndrei/servlets-and-jsp.git)
     - servlets-and-jsp-v1
     - servlets-and-jsp-v2
    
