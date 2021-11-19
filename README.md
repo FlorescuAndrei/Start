@@ -15,12 +15,12 @@ Study projects
   - Spring and Hibernate
   
       - IOC and Dependecy Injection
-        -01-spring-first-step-xml-config
-        -02-spring-first-step-annotation
-        -03-spring-first-step-java-config
+        - 01-spring-first-step-xml-config
+        - 02-spring-first-step-annotation
+        - 03-spring-first-step-java-config
         
       - Spring MVC
-        -04-spring-mvc-demo
+        - 04-spring-mvc-demo
   
   
 
