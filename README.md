@@ -21,10 +21,5 @@ Study projects
         
       - Spring MVC
         - [04-spring-mvc-demo]()
-  
-  
-
-
-Example:
-This site was built using [GitHub Pages](https://pages.github.com/).
-      
+        
+ 
