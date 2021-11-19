@@ -9,18 +9,18 @@ Study projects
   
   - Servlets and JSP
     - [servlets-and-jsp](https://github.com/FlorescuAndrei/servlets-and-jsp.git)
-    - servlets-and-jsp-v1
-    - servlets-and-jsp-v2
+    - [servlets-and-jsp-v1](https://github.com/FlorescuAndrei/servlets-and-jsp-v1.git)
+    - [servlets-and-jsp-v2](https://github.com/FlorescuAndrei/servlets-and-jsp-v2.git)
    
   - Spring and Hibernate
   
       - IOC and Dependecy Injection
-        - 01-spring-first-step-xml-config
-        - 02-spring-first-step-annotation
-        - 03-spring-first-step-java-config
+        - [01-spring-first-step-xml-config]()
+        - [02-spring-first-step-annotation]()
+        - [03-spring-first-step-java-config]()
         
       - Spring MVC
-        - 04-spring-mvc-demo
+        - [04-spring-mvc-demo]()
   
   
 
