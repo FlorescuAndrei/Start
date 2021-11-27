@@ -22,7 +22,7 @@ Study projects
       - Spring MVC
         - [04-spring-mvc-demo](https://github.com/FlorescuAndrei/04-spring-mvc-demo.git)
       
-      -Hibernate
+      - Hibernate
         -[05-hibernate-advanced-mappings](https://github.com/FlorescuAndrei/05-hibernate-advanced-mappings.git)
         
  
