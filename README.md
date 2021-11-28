@@ -25,5 +25,9 @@ Study projects
       - Hibernate
         - [05-hibernate-advanced-mappings](https://github.com/FlorescuAndrei/05-hibernate-advanced-mappings.git)  
           Hibernate learning project. CRUD and Advanced Mappings: One To One, One To Many, Many To Many, Uni and Bidirectional.
+          
+       - Spring MVC and Hibernate
+        - [06-mvc-hibernate-webapp](https://github.com/FlorescuAndrei/06-mvc-hibernate-webapp.git)  
+          Spring MVC and Hibernate learning project that connects to a database. Customer Relationship Manager.
         
  
