@@ -28,6 +28,10 @@ Study projects
           
        - Spring MVC and Hibernate
          - [06-mvc-hibernate-webapp](https://github.com/FlorescuAndrei/06-mvc-hibernate-webapp.git)  
-          Spring MVC and Hibernate learning project that connects to a database. Customer Relationship Manager.
-        
+          Spring MVC and Hibernate learning project that connects to a database. Customer Relationship Manager.  
+          
+       - Spring AOP
+         - [07-spring-aop](https://github.com/FlorescuAndrei/07-spring-aop.git)  
+          Spring AOP learning project. @Before, @AfterReturning, @AfterThrowing, @After, @Around. JoinPoint expressions, JoinPoint declarations. @Order 
+       
  
