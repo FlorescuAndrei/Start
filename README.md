@@ -32,10 +32,6 @@ Study projects
           
        - Spring AOP
          - [07-spring-aop](https://github.com/FlorescuAndrei/07-spring-aop.git)  
-          Spring AOP learning project. @Before, @AfterReturning, @AfterThrowing, @After, @Around. JoinPoint expressions, JoinPoint declarations. @Order  
-          
-        - Spring Security
-         - [08-spring-security-demo](https://github.com/FlorescuAndrei/08-spring-security-demo.git)  
-          Spring Security Learning Project. Display content based on roles. User account stored in database. 
+          Spring AOP learning project. @Before, @AfterReturning, @AfterThrowing, @After, @Around. JoinPoint expressions, JoinPoint declarations. @Order
        
  
