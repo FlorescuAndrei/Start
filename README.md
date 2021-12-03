@@ -36,6 +36,6 @@ Study projects
        
        - Spring Security
          - [08-spring-security-demo](https://github.com/FlorescuAndrei/08-spring-security-demo.git)  
-          Spring Security Learning Project. Display content based on roles. User account stored in database. 
+          Spring Security Learning Project. Display content based on roles. User account stored in database. Maven project. 
        
  
