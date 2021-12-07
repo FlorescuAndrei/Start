@@ -36,6 +36,10 @@ Study projects
        
        - Spring Security
          - [08-spring-security-demo](https://github.com/FlorescuAndrei/08-spring-security-demo.git)  
-          Spring Security Learning Project. Display content based on roles. User account stored in database. Maven project. 
+          Spring Security Learning Project. Display content based on roles. User account stored in database. Maven project.  
+       
+       - Spring REST
+         - [09-spring-rest-demo](https://github.com/FlorescuAndrei/09-spring-rest-demo.git)  
+          Spring REST Learning Project. Create a REST Server that will use a list of students and show one or all via endpoints in JSON format. 
        
  
