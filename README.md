@@ -45,6 +45,9 @@ Study projects
           Spring REST Learning Project. View customer, Add customer, Update customer, Delete customer via Spring MVC jsp pages or via Spring REST endpoint using Postman as client.  
        - Spring Boot
          - [11-boot-start](https://github.com/FlorescuAndrei/11-boot-start.git)  
-          Spring Boot Learning Project. Basic steps. REST endpoint for simple messages. Actuator. Security. Edit application.properties.
+          Spring Boot Learning Project. Basic steps. REST endpoint for simple messages. Actuator. Security. Edit application.properties.  
+          - [13-boot-spring-data-rest](https://github.com/FlorescuAndrei/13-boot-spring-data-rest.git)  
+          Spring Boot Learning Project. Spring Boot Learning Project. Use Spring Data JPA and Spring Data Rest. CRM app: expose Rest endpoints for: get customer, update customer, delete customer.
+
        
  
