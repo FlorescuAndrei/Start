@@ -53,7 +53,7 @@ Study projects
           
        - Spring Boot with Thymeleaf
          - [14-thymeleaf-demo](https://github.com/FlorescuAndrei/14-thymeleaf-demo.git)  
-          Spring Boot Learning 
+         Spring Thymeleaf Learning project.  A web app that show a list of customer. You can add a new customer, edit or delete a customer.  
 
        
  
