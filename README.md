@@ -40,7 +40,7 @@ Study projects
        
        - Spring REST
          - [09-spring-rest-demo](https://github.com/FlorescuAndrei/09-spring-rest-demo.git)  
-          Spring REST Learning Project. Create a REST Server that will use a list of students and show one or all via endpoints in JSON format.   
+          Spring REST Learning Project. Create a REST Server that will use a list of students and show one or all, via endpoints in JSON format.   
          - [10-spring-mvc-hibernate-aop-rest-demo](https://github.com/FlorescuAndrei/10-spring-mvc-hibernate-aop-rest-demo)  
           Spring REST Learning Project. View customer, Add customer, Update customer, Delete customer via Spring MVC jsp pages or via Spring REST endpoint using Postman as client.  
        - Spring Boot
