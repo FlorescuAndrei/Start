@@ -5,7 +5,10 @@ Study projects
 
   - Algoritm
   
-  - Java
+  - Java  
+
+  - JavaFX  
+    - [15-FxTodoList](https://github.com/FlorescuAndrei/15-FxTodoList.git)
   
   - Servlets and JSP
     - [servlets-and-jsp](https://github.com/FlorescuAndrei/servlets-and-jsp.git)
