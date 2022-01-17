@@ -56,7 +56,12 @@ Study projects
           
        - Spring Boot with Thymeleaf
          - [14-thymeleaf-demo](https://github.com/FlorescuAndrei/14-thymeleaf-demo.git)  
-         Spring Thymeleaf Learning project.  A web app that show a list of customer. You can add a new customer, edit or delete a customer.  
+         Spring Thymeleaf Learning project.  A web app that show a list of customer. You can add a new customer, edit or delete a customer.    
+               
+  - Docker
+    - Learning Docker
+         - [16-docker-spring-boot-mysql-demo](https://github.com/FlorescuAndrei/14-thymeleaf-demo.git)  
+        Docker learning project. Take a previous app, build a docker image, upload it to docker hub, add a mysql image,  run in container.
 
        
  
