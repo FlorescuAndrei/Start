@@ -59,7 +59,7 @@ Study projects
          Spring Thymeleaf Learning project.  A web app that show a list of customer. You can add a new customer, edit or delete a customer.    
                
   - Docker
-       - [16-docker-spring-boot-mysql-demo](https://github.com/FlorescuAndrei/14-thymeleaf-demo.git)  
+       - [16-docker-spring-boot-mysql-demo](https://github.com/FlorescuAndrei/16-docker-spring-boot-mysql-demo.git)  
         Docker learning project. Take a previous app, build a docker image, upload it to docker hub, add a mysql image, create containers, run .
 
        
