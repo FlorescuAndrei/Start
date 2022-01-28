@@ -60,7 +60,11 @@ Study projects
                
   - Docker
        - [16-docker-spring-boot-mysql-demo](https://github.com/FlorescuAndrei/16-docker-spring-boot-mysql-demo.git)  
-        Docker learning project. Take a previous app, build a docker image, upload it to docker hub, add a mysql image, create containers, run .
+        Docker learning project. Take a previous app, build a docker image, upload it to docker hub, add a mysql image, create containers, run .  
+          
+   - Kubernetes
+      - [17-kubernetes-spring-mysql-demo.git](https://github.com/FlorescuAndrei/17-kubernetes-spring-mysql-demo.git)  
+        Kubernetes learning project. Take a previous app, build a docker image, upload it to docker hub, add a mysql image, deploy on Minikube with kubectl, run .
 
        
  
