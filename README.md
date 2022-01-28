@@ -64,7 +64,7 @@ Study projects
           
    - Kubernetes
       - [17-kubernetes-spring-mysql-demo.git](https://github.com/FlorescuAndrei/17-kubernetes-spring-mysql-demo.git)  
-        Kubernetes learning project. Take a previous app, build a docker image, add a mysql image, deploy on Minikube with kubectl, run .
+        Kubernetes learning project. Spring boot web app and MySQL database. Create Docker image, deploy on K8s. Work with Minikube and kubectl.
 
        
  
