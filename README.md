@@ -3,7 +3,7 @@ Links and description to all my repo
 
 Study projects
 
-  - Algoritm
+  - Data Structures and Algorithms
   
   - Java  
 
