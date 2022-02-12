@@ -2,7 +2,9 @@
 
 Study projects
 
-  - Data Structures and Algorithms
+  - Data Structures and Algorithms  
+      -  Algorithms
+          -  
   
   - Java  
 
