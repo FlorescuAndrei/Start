@@ -4,12 +4,13 @@ Study projects
 
   - Data Structures and Algorithms  
       -  Algorithms  
+      
         -  Sort Algorithms  
            -  [18-array-sort-algorithms](https://github.com/FlorescuAndrei/18-array-sort-algorithms.git)  
             Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort  
+            
         -  Search Asgorithms    
-          -  [18-array-sort-algorithms](https://github.com/FlorescuAndrei/18-array-sort-algorithms.git)  
-            Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort   
+           
        
  
       -  Data Structures  
