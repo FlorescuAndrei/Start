@@ -4,7 +4,7 @@ Study projects
 
   - Data Structures and Algorithms  
       -  Algorithms
-          -  [18-array-sort-algorithms.git](https://github.com/FlorescuAndrei/18-array-sort-algorithms.git)
+          -  [18-array-sort-algorithms](https://github.com/FlorescuAndrei/18-array-sort-algorithms.git)
   
   - Java  
 
