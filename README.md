@@ -4,12 +4,19 @@ Study projects
 
   - Data Structures and Algorithms  
       -  Algorithms
-          -  [18-array-sort-algorithms](https://github.com/FlorescuAndrei/18-array-sort-algorithms.git)
+        -  [18-array-sort-algorithms](https://github.com/FlorescuAndrei/18-array-sort-algorithms.git)   
+        Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort 
+      -  Data Structures
+        -  Lists
+        -  Stacks and Queues 
+        -  Hashtable
+        -  Tree and Heaps 
   
   - Java  
 
   - JavaFX  
-    - [15-FxTodoList](https://github.com/FlorescuAndrei/15-FxTodoList.git)
+    - [15-FxTodoList](https://github.com/FlorescuAndrei/15-FxTodoList.git)  
+    JavaFX Learning Project. Todo list: view list, add item, delete item
   
   - Servlets and JSP
     - [servlets-and-jsp](https://github.com/FlorescuAndrei/servlets-and-jsp.git)
