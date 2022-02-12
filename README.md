@@ -12,10 +12,10 @@ Study projects
        
  
       -  Data Structures  
-        -  Lists  
-        -  Stacks and Queues   
-        -  Hashtable  
-        -  Tree and Heaps 
+          -  Lists  
+          -  Stacks and Queues   
+          -  Hashtable  
+          -  Tree and Heaps 
   
   - Java  
 
