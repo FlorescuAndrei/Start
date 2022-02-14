@@ -13,9 +13,11 @@ Study projects
  
       -  Data Structures  
           -  Lists    
-              - [19-Lists](https://github.com/FlorescuAndrei/19-Lists.git)  
+              -  [19-Lists](https://github.com/FlorescuAndrei/19-Lists.git)  
               Array Lists, Vectors, Singly Liked Lists, Doubly Linked Lists, JDK LinkedList Class
-          -  Stacks and Queues   
+          -  Stacks and Queues  
+              -   [20-Stacks](https://github.com/FlorescuAndrei/20-Stacks.git)  
+              Stacks implementation with Array, Stacks implementation with LinkedList 
           -  Hashtable  
           -  Tree and Heaps 
   
