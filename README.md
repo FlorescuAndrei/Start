@@ -12,7 +12,8 @@ Study projects
        
  
       -  Data Structures  
-          -  Lists  
+          -  Lists    
+              - [19-Lists](https://github.com/FlorescuAndrei/19-Lists.git)
           -  Stacks and Queues   
           -  Hashtable  
           -  Tree and Heaps 
