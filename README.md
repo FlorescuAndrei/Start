@@ -24,7 +24,7 @@ Study projects
           -  Hashtable  
               -  [22-Hashtable](https://github.com/FlorescuAndrei/22-Hashtable.git)  
               Basic Hashtable, Linear probing strategy, Chaining strategy, JDK Hashtable 
-          -  Tree and Heaps 
+          -  Trees and Heaps 
   
   - Java  
 
