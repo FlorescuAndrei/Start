@@ -22,6 +22,7 @@ Study projects
               Queues. Array Implementation. Circular implementation
               
           -  Hashtable  
+              - [22-Hashtable](https://github.com/FlorescuAndrei/22-Hashtable.git) 
           -  Tree and Heaps 
   
   - Java  
