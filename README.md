@@ -9,7 +9,9 @@ Study projects
              Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort    
              -  [23-BucketSort](https://github.com/FlorescuAndrei/23-BucketSort.git)  
              Array sort Algorithm that hash the values to sort
-         - Search Asgorithms    
+         - Search Asgorithms  
+             -  [24-SearcyAlgorithms](https://github.com/FlorescuAndrei/24-SearcyAlgorithms.git)  
+             Linear Search, Binary Search   
            
        
  
