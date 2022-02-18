@@ -29,6 +29,8 @@ Study projects
               -  [22-Hashtable](https://github.com/FlorescuAndrei/22-Hashtable.git)  
               Basic Hashtable, Linear probing strategy, Chaining strategy, JDK Hashtable 
           -  Trees and Heaps 
+              -  [25-BinarySearchTrees](https://github.com/FlorescuAndrei/25-BinarySearchTrees.git)  
+              Binary Search Tree. Insert. Traverse in Order. Get. Delete
   
   - Java  
 
