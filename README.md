@@ -30,7 +30,9 @@ Study projects
               Basic Hashtable, Linear probing strategy, Chaining strategy, JDK Hashtable 
           -  Trees and Heaps 
               -  [25-BinarySearchTrees](https://github.com/FlorescuAndrei/25-BinarySearchTrees.git)  
-              Binary Search Tree. Insert. Traverse in Order. Get. Delete
+              Binary Search Tree. Insert. Traverse in Order. Get. Delete   
+              -  [26-Heaps](https://github.com/FlorescuAndrei/26-Heaps.git)  
+              Heaps, Insert. Delete. Peek. Priority Queue. Heap sort algorithm
   
   - Java  
 
