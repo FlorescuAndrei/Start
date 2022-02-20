@@ -8,7 +8,9 @@ Study projects
              -  [18-array-sort-algorithms](https://github.com/FlorescuAndrei/18-array-sort-algorithms.git)  
              Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort    
              -  [23-BucketSort](https://github.com/FlorescuAndrei/23-BucketSort.git)  
-             Array sort Algorithm that hash the values to sort
+             Array sort Algorithm that hash the values to sort  
+             -  [27-array-sort-with-trees](https://github.com/FlorescuAndrei/27-array-sort-with-trees.git)  
+             Sort an array using a Binary Search Tree and a Heap
          - Search Asgorithms  
              -  [24-SearcyAlgorithms](https://github.com/FlorescuAndrei/24-SearcyAlgorithms.git)  
              Linear Search, Binary Search   
