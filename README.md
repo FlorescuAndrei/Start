@@ -40,7 +40,9 @@ Study projects
       -  [28-IO](https://github.com/FlorescuAndrei/28-IO.git)  
       Java IO, Java NIO. Reading and Writing. File System  
       -  [29-Concurrency](https://github.com/FlorescuAndrei/29-Concurrency.git)  
-      Concurrency and Threads. Threads and Runnable. Synchronization and Lock  
+      Concurrency and Threads. Threads and Runnable. Synchronization and Lock    
+      -  [30-Databases](https://github.com/FlorescuAndrei/30-Databases.git)  
+      Java, MySQL, JDBC. CRUD, JOIN, Transaction. Connection, Statement, PreparedStatement, ResultSet
       -  [31-LambdasFunctionsStreams](https://github.com/FlorescuAndrei/31-LambdasFunctionsStreams.git)  
       Lambdas. Functions (java.util.function). Streams (java.util.stream) 
 
