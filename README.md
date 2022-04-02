@@ -37,6 +37,8 @@ Study projects
               Heaps, Insert. Delete. Peek. Priority Queue. Heap sort algorithm
   
   - Java  
+      -  [32-Collections](https://github.com/FlorescuAndrei/32-Collections.git)  
+      Collections Framework: List, ArrayList, LinkedList, Map, HashMap, Set, HashSet. Comparable and Comparator. equals() and hashCode().    
       -  [28-IO](https://github.com/FlorescuAndrei/28-IO.git)  
       Java IO, Java NIO. Reading and Writing. File System  
       -  [29-Concurrency](https://github.com/FlorescuAndrei/29-Concurrency.git)  
