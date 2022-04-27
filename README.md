@@ -67,7 +67,8 @@ Study projects
         - [03-spring-first-step-java-config](https://github.com/FlorescuAndrei/03-spring-first-step-java-config.git)
         
       - Spring MVC
-        - [04-spring-mvc-demo](https://github.com/FlorescuAndrei/04-spring-mvc-demo.git)
+        - [04-spring-mvc-demo](https://github.com/FlorescuAndrei/04-spring-mvc-demo.git)  
+        First Spring MVC project. Form. Hibernate Validator
       
       - Hibernate
         - [05-hibernate-advanced-mappings](https://github.com/FlorescuAndrei/05-hibernate-advanced-mappings.git)  
