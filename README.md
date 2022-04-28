@@ -55,7 +55,8 @@ Study projects
     JavaFX Learning Project. Todo list: view list, add item, delete item
   
   - Servlets and JSP
-    - [servlets-and-jsp](https://github.com/FlorescuAndrei/servlets-and-jsp.git)
+    - [servlets-and-jsp](https://github.com/FlorescuAndrei/servlets-and-jsp.git)  
+    Create and manage a To do list. Two servlets and two JSP files that work together and send data between them.
     - [servlets-and-jsp-v1](https://github.com/FlorescuAndrei/servlets-and-jsp-v1.git)
     - [servlets-and-jsp-v2](https://github.com/FlorescuAndrei/servlets-and-jsp-v2.git)
    
@@ -63,7 +64,7 @@ Study projects
   
       - IOC and Dependecy Injection
         - [01-spring-first-step-xml-config](https://github.com/FlorescuAndrei/01-spring-first-step-xml-config.git)  
-        Basic Spring App with XML Configuration, no Annotation. Inversion Of Control, Dependency Injection, Bean Life Cycle  
+        Basic Spring App with XML Configuration. Inversion Of Control, Dependency Injection, Bean Life Cycle  
         - [02-spring-first-step-annotation](https://github.com/FlorescuAndrei/02-spring-first-step-annotation.git)  
         Spring Configuration with Annotation.     
         - [03-spring-first-step-java-config](https://github.com/FlorescuAndrei/03-spring-first-step-java-config.git)  
