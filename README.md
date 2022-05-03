@@ -62,7 +62,7 @@ Study projects
    
   - Spring and Hibernate
   
-      - IOC and Dependecy Injection
+      - IOC and Dependency Injection
         - [01-spring-first-step-xml-config](https://github.com/FlorescuAndrei/01-spring-first-step-xml-config.git)  
         Basic Spring App with XML Configuration. Inversion Of Control, Dependency Injection, Bean Life Cycle  
         - [02-spring-first-step-annotation](https://github.com/FlorescuAndrei/02-spring-first-step-annotation.git)  
