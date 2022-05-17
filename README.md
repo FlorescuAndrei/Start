@@ -99,9 +99,9 @@ Study projects
          - [11-boot-start](https://github.com/FlorescuAndrei/11-boot-start.git)  
           Spring Boot Learning Project. Basic steps. REST endpoint for simple messages. Actuator. Security. Edit application.properties.  
          - [12-spring-boot-jpa-rest](https://github.com/FlorescuAndrei/12-spring-boot-jpa-rest.git)  
-         CRM app: expose Rest endpoints for: add Customer, get all customer, etc. Use Hibernate or JPA or Spring Data JPA and a REST Controller. MySQL database.
+         Hibernate **or** JPA **or** Spring Data JPA **and** a REST Controller. MySQL database. CRM app: expose Rest endpoints for: add Customer, get all customer, etc. 
          - [13-boot-spring-data-rest](https://github.com/FlorescuAndrei/13-boot-spring-data-rest.git)  
-          Spring Boot Learning Project. Use Spring Data JPA and Spring Data Rest. CRM app: expose Rest endpoints for: get customer, update customer, delete customer.  
+          Spring Data JPA and Spring Data Rest. CRM app: expose Rest endpoints for: get customer, update customer, delete customer.  
           
        - Spring Boot with Thymeleaf
          - [14-thymeleaf-demo](https://github.com/FlorescuAndrei/14-thymeleaf-demo.git)  
